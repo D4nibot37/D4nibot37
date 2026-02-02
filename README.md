@@ -32,4 +32,8 @@ https://www.linkedin.com/in/daniel-cristians-a4b23b270/?lipi=urn%3Ali%3Apage%3Ad
 
 ---
 ### 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=D4nibot37&show_icons=true&theme=radical)
+
+
+![Stats de D4nibot37](https://github-readme-stats.vercel.app/api?username=D4nibot37&show_icons=true)
+
+
