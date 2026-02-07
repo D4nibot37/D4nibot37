@@ -27,10 +27,13 @@ I am a results-oriented professional dedicated to turning raw data into actionab
 ---
 
 ### 📫 Let's Connect!
-https://www.linkedin.com/in/daniel-cristians-a4b23b270/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWpyHj42RQKudsFT%2BfzJp7g%3D%3D
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cristians-a4b23b270/)
+
 [![Email](https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:dcristians@yahoo.com)
 
----
+
 ### 📈 GitHub Stats
 
 
