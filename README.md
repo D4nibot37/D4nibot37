@@ -1,5 +1,5 @@
 # Hi there! I'm [Daniel Cristians] 👋
-### Junior Data Analyst | SQL & Power BI Enthusiast
+### Data Analyst | Power BI · SQL · DAX | Business Intelligence | Data Storytelling
 
 I am a results-oriented professional dedicated to turning raw data into actionable business stories. I specialize in building robust ETL pipelines and creating high-impact visualizations to drive decision-making.
 
