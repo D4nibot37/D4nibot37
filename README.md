@@ -1,7 +1,15 @@
-# Hi there! I'm [Daniel Cristians] 👋
-### Data Analyst | Power BI · SQL · DAX | Business Intelligence | Data Storytelling
+# Hi, I'm Daniel Cristians 👋
+### Customer Support Professional | Case Resolution | Data-Driven Support (SQL · Power BI)
 
-I am a results-oriented professional dedicated to turning raw data into actionable business stories. I specialize in building robust ETL pipelines and creating high-impact visualizations to drive decision-making.
+I have 10+ years of experience in customer-facing roles in Spain and the UK, helping international customers in Spanish and English. I resolve cases, escalate with full context and keep customers informed until they are closed.
+
+I also use data to understand what customers need: SQL and Power BI to spot patterns and recurring issues, and Python to automate support tasks.
+
+## What I work with
+- **Support:** case resolution, escalation, Jira, CRM systems, clear written communication
+- **Data:** SQL, Power BI (DAX), Excel
+- **Technical:** CompTIA A+, Network+, Security+ training; Python (AI-assisted projects)
+- **Languages:** Spanish (native), English (B2+), Catalan (intermediate), German (basic)
 
 ---
 
